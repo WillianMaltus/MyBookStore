@@ -4,7 +4,7 @@
 
 </div>
 
-![Logo do Markdown](https://github.com/WillianMaltus/bookstore-front/blob/master/src/assets/img/Demo.gif?raw=true)
+![Logo do Markdown](https://github.com/WillianMaltus/MyBookStore/blob/desenvolvimento/src/assets/img/Demo.gif?raw=true)
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
